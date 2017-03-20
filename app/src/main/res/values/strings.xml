@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat Room</string>
+    <string name="String_type_message">Type message</string>
+    <string name="String_enter_user_name">Enter username</string>
+    <string name="String_submit">Submit</string>
+    <string name="sharedpref_key">key</string>
+</resources>
